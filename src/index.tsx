@@ -15,7 +15,7 @@ createServer({
           id: 1,
           title: 'Aluguel',
           type: 'withdraw',
-          category: 'Casa',
+          category: 'Moradia',
           amount: 1100,
           createdAt: new Date('2021-11-10 10:00:00'),
         },
